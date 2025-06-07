@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a Bitcoin prediction model using Transformer, building my first agentic AI.
+- 🌱 I’m currently learning how to train models and building AI agents and agentic AI
+- 👯 I’m looking to collaborate on cyrpto or AI related projects
+- 💬 Ask me about anything Data and Analtyics.  I have 20+ years of experience in data warehouse, business intelligence, data engineering, and analytics
+- 📫 How to reach me: ronpark71@gmail.com   https://www.linkedin.com/in/ronald-park-7611451/
+
 <!--
 **ronpark71/ronpark71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
